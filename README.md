@@ -6,7 +6,7 @@ If the running host is going to terminate, the operator drains tasks from the ho
 
 The operator probes the host status every 2 seconds.
 
-This is an Operator described in Ch 7 of the book "Docker for Serverless Applications".
+This is an Operator described in Ch 7 of the book "[Docker for Serverless Applications](https://www.packtpub.com/virtualization-and-cloud/docker-serverless-applications)".
 
 ![Book](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09434_0.png)
 
